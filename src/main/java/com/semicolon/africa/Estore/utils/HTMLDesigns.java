@@ -28,11 +28,11 @@ public class HTMLDesigns {
                 "</div>\n" +
                 "<div class=\"content\">\n" +
                 "    <p>Hello " + username + " </p>\n" +
-                "    <p>Hello Welcome to Bobby's Store The Best Online Store YOu Can Ever Find All Around Lagos</p>\n" +
+                "    <p>Hello Welcome to Investor's Store The Best Online Store You Can Ever Find All Around Lagos</p>\n" +
                 "    <p>Thank you for joining our service. We are excited to have you on board.</p>\n" +
                 "</div>\n" +
                 "<div class=\"footer\">\n" +
-                "    <p>&copy; 2024 Your Bobby's Store. All rights reserved.</p>\n" +
+                "    <p>&copy; 2024 Your Investor's Store. All rights reserved.</p>\n" +
                 "</div>\n" +
                 "</body>\n" +
                 "</html>\n";
@@ -68,7 +68,7 @@ public class HTMLDesigns {
                 "    <button href=\"#\"   style = background-color = blue; color:white; font-weight: bold; border:none > View Order</button>\n" +
                 "</div>\n" +
                 "<div class=\"footer\">\n" +
-                "    <p>&copy; 2024 Your Bobby's Store. All rights reserved.</p>\n" +
+                "    <p>&copy; 2024 Your Investor's Store. All rights reserved.</p>\n" +
                 "</div>\n" +
                 "</body>\n" +
                 "</html>\n";
